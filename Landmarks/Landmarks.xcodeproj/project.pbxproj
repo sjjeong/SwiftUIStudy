@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		EE81751A237C5B9500B916D8 /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE817519237C5B9500B916D8 /* MapView.swift */; };
 		EEA6DE92237869D400C06B15 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EEA6DE91237869D400C06B15 /* AppDelegate.swift */; };
 		EEA6DE94237869D400C06B15 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EEA6DE93237869D400C06B15 /* SceneDelegate.swift */; };
 		EEA6DE96237869D400C06B15 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EEA6DE95237869D400C06B15 /* ContentView.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		EE817519237C5B9500B916D8 /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
 		EEA6DE8E237869D400C06B15 /* Landmarks.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Landmarks.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EEA6DE91237869D400C06B15 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		EEA6DE93237869D400C06B15 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -62,6 +64,7 @@
 				EEA6DE93237869D400C06B15 /* SceneDelegate.swift */,
 				EEA6DE95237869D400C06B15 /* ContentView.swift */,
 				EEE5497D237A972400BE3BF9 /* CircleImage.swift */,
+				EE817519237C5B9500B916D8 /* MapView.swift */,
 				EEA6DE97237869D600C06B15 /* Assets.xcassets */,
 				EEA6DE9C237869D600C06B15 /* LaunchScreen.storyboard */,
 				EEA6DE9F237869D600C06B15 /* Info.plist */,
@@ -151,6 +154,7 @@
 			files = (
 				EEA6DE92237869D400C06B15 /* AppDelegate.swift in Sources */,
 				EEA6DE94237869D400C06B15 /* SceneDelegate.swift in Sources */,
+				EE81751A237C5B9500B916D8 /* MapView.swift in Sources */,
 				EEE5497E237A972400BE3BF9 /* CircleImage.swift in Sources */,
 				EEA6DE96237869D400C06B15 /* ContentView.swift in Sources */,
 			);
