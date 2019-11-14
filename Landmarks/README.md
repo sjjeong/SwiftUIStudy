@@ -1,2 +1,36 @@
 # Landmarks
-https://developer.apple.com/tutorials/swiftui/creating-and-combining-views
+
+## SwiftUI Essentials
+- [Creating and Combining Views](https://developer.apple.com/tutorials/swiftui/creating-and-combining-views)
+  - [Section 1, Create a New Project and Explore the Canvas](https://developer.apple.com/tutorials/swiftui/creating-and-combining-views#create-a-new-project-and-explore-the-canvas)
+    - [commit](https://github.com/sjjeong/SwiftUIStudy/commit/703ac6811587d7781b3633008a1a0cfd6ec575f7)
+  - [Section 2, Customize the Text View](https://developer.apple.com/tutorials/swiftui/creating-and-combining-views#customize-the-text-view)
+    - [commit](https://github.com/sjjeong/SwiftUIStudy/commit/1209f4d1abb7d0ea6d12786f9ed590535b58c19f)
+  - [Section 3, Combine Views Using Stacks](https://developer.apple.com/tutorials/swiftui/creating-and-combining-views#combine-views-using-stacks)
+    - [commit](https://github.com/sjjeong/SwiftUIStudy/commit/8d39d156f29dfde02fe40e8ad1763e7ea14c7c7c)
+  - [Section 4, Create a Custom Image View](https://developer.apple.com/tutorials/swiftui/creating-and-combining-views#create-a-custom-image-view)
+    - [commit](https://github.com/sjjeong/SwiftUIStudy/commit/50f18b2ab504fb06866935dcffa79ce39b5426f0)
+  - [Section 5, Use UIKit and SwiftUI Views Together](https://developer.apple.com/tutorials/swiftui/creating-and-combining-views#use-uikit-and-swiftui-views-together)
+    - [commit](https://github.com/sjjeong/SwiftUIStudy/commit/3e9de6ba9d520a525d6459b187b57ba3777bc84e)
+  - [Section 6, Compose the Detail View](https://developer.apple.com/tutorials/swiftui/creating-and-combining-views#compose-the-detail-view)
+    - [commit](https://github.com/sjjeong/SwiftUIStudy/commit/7addd718ab7057461b82ec457b54402082d3cf3f)
+
+- [Building Lists and Navigation](https://developer.apple.com/tutorials/swiftui/building-lists-and-navigation)
+  - [Section 1, Get to Know the Sample Data](https://developer.apple.com/tutorials/swiftui/building-lists-and-navigation#get-to-know-the-sample-data)
+    - [commit](https://github.com/sjjeong/SwiftUIStudy/commit/efa2b0077a6d1c68b8b34a179e22056047ab4682)
+  - [Section 2, Create the Row View](https://developer.apple.com/tutorials/swiftui/building-lists-and-navigation#create-the-row-view)
+    - [commit](https://github.com/sjjeong/SwiftUIStudy/commit/1344e9e4a9eeff8c0fac5734e93bf10baf33058f)
+  - [Section 3, Customize the Row Preview](https://developer.apple.com/tutorials/swiftui/building-lists-and-navigation#customize-the-row-preview)
+    - [commit](https://github.com/sjjeong/SwiftUIStudy/commit/1e5eca4c064724080a7ceab3cd2d2f44a703205e)
+  - [Section 4, Create the List of Landmarks](https://developer.apple.com/tutorials/swiftui/building-lists-and-navigation#create-the-list-of-landmarks)
+    - [commit](https://github.com/sjjeong/SwiftUIStudy/commit/bbc5aac0e26ed12830e88b6a906d9a1ef0730703)
+  - [Section 5, Make the List Dynamic](https://developer.apple.com/tutorials/swiftui/building-lists-and-navigation#make-the-list-dynamic)
+    - [commit](https://github.com/sjjeong/SwiftUIStudy/commit/f7c570219199c5c848c179f1323585ab9502de03)
+  - [Section 6, Set Up Navigation Between List and Detail](https://developer.apple.com/tutorials/swiftui/building-lists-and-navigation#set-up-navigation-between-list-and-detail)
+    - [commit](https://github.com/sjjeong/SwiftUIStudy/commit/2cc239179632e174d67e894168fa6a188c5b9078)
+  - [Section 7, Pass Data into Child Views](https://developer.apple.com/tutorials/swiftui/building-lists-and-navigation#pass-data-into-child-views)
+    - [commit](https://github.com/sjjeong/SwiftUIStudy/commit/f7e71ae2890a044cdc7d5b408562217ee4627923)
+  - [Section 8, Generating Previews Dynamically](https://developer.apple.com/tutorials/swiftui/building-lists-and-navigation#generating-previews-dynamically)
+    - [commit](https://github.com/sjjeong/SwiftUIStudy/commit/191ea8b85f95f6ad5dc046f3b273f97ab0a6b92c)
+
+- [Handling User Input](https://developer.apple.com/tutorials/swiftui/handling-user-input)
