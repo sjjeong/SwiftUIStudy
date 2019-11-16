@@ -12,7 +12,7 @@ SwiftUI를 공부하는 저장소
 * `Embed in HStack|VStack|List` 를 사용하면 자동으로 code를 넣어주기 때문에 편하다.
 * `Extract` 기능이 있어서 코드 편집이 편하다.
 
-### ctrl+cmd+click
+### ctrl+option+click
 |code|preview|
 |-|-|
 |<img src="./img/ctrl_cmd_click_01.png">|<img src="./img/ctrl_cmd_click_02.png">|
